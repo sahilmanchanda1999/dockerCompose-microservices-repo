@@ -7770,3 +7770,48 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 19:29:16.123
 !MESSAGE executing callback sts4.classpath.tgGufHNW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 21:29:15.199
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 21:29:15.226
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 21:29:15.425
+!MESSAGE buffering callback sts4.classpath.tgGufHNW eureka-server false 147
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 21:29:15.474
+!MESSAGE executing callback sts4.classpath.tgGufHNW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 21:29:15.512
+!MESSAGE executing callback sts4.classpath.tgGufHNW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 21:29:51.384
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 21:29:51.423
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 21:29:51.431
+!MESSAGE buffering callback sts4.classpath.tgGufHNW eureka-server false 147
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 21:29:51.431
+!MESSAGE executing callback sts4.classpath.tgGufHNW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 21:29:51.473
+!MESSAGE executing callback sts4.classpath.tgGufHNW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 21:32:22.531
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 21:32:22.539
+!MESSAGE classpath=135 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 21:32:22.545
+!MESSAGE buffering callback sts4.classpath.tgGufHNW eureka-server false 135
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 21:32:22.545
+!MESSAGE executing callback sts4.classpath.tgGufHNW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 21:32:22.821
+!MESSAGE executing callback sts4.classpath.tgGufHNW SUCCESS [done]
