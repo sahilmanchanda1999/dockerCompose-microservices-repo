@@ -1,0 +1,4 @@
+FROM adoptopenjdk/openjdk11
+WORKDIR /
+ADD eureka-service.jar eureka-service.jar
+CMD java -jar eureka-service.jar

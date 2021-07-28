@@ -1,4 +1,4 @@
 FROM adoptopenjdk/openjdk11
 WORKDIR /
-ADD target/*.jar app.jar
-CMD java -jar app.jar
+ADD menu-item-service.jar menu-item-service.jar
+CMD java -jar menu-item-service.jar
