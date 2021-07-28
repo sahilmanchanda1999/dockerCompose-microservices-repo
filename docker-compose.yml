@@ -29,7 +29,18 @@ services:
         networks: 
             - app-network
 
-  
+    order-service:
+        image: order-service
+        ports: 
+            - "5000:5000"
+        environment: 
+            EUREKA_HOST: eureka-server
+        depends_on: 
+            - eureka-server
+        networks: 
+            - app-network
+        
+
 
 networks: 
     app-network:
