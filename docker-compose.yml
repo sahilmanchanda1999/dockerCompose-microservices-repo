@@ -7,7 +7,29 @@ services:
         networks: 
             - app-network
     
-    
+    menu-item-service:
+        image: menu-item-service
+        ports: 
+            - "5100:5100"
+        environment: 
+            EUREKA_HOST: eureka-server
+        depends_on: 
+            - eureka-server
+        networks: 
+            - app-network
+
+    coupon-service:
+        image: coupon-service
+        ports: 
+            - "5200:5200"
+        environment: 
+            EUREKA_HOST: eureka-server
+        depends_on: 
+            - eureka-server
+        networks: 
+            - app-network
+
+  
 
 networks: 
     app-network:
