@@ -1,0 +1,5 @@
+package com.cognizant.microservices.controller;
+
+public class MenuItemController {
+
+}

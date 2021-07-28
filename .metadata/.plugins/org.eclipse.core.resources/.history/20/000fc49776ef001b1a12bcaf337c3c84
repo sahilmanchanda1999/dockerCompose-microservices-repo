@@ -1,0 +1,7 @@
+package com.cognizant.microservices.controller;
+
+@RestController
+@RequestMapping
+public class CouponController {
+
+}

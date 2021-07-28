@@ -1,0 +1,17 @@
+spring.application.name=menu-item-service
+server.port=5100
+
+spring.datasource.url=jdbc:h2:mem:menuItem_db
+spring.datasource.username=sa
+spring.datasource.password=password
+spring.datasource.driver-class-name=org.h2.Driver
+
+spring.jpa.show-sql=true
+spring.jpa.generate-ddl=true
+spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
+
+spring.h2.console.enabled=true
+
+##docker run -e RDS_HOSTNAME=18.222.229.143 -p 5000:5000 -d -e RDS_PORT=3306 -e RDS_DB_NAME=docker -e RDS_USER=docker -e RDS_PASSWORD=docker --name trainee-rest-api trainee-rest-api 
+
+##docker run -e RDS_HOSTNAME=mysql -p 5000:5000 -d -e RDS_PORT=3306 -e RDS_DB_NAME=docker -e RDS_USER=docker -e RDS_PASSWORD=docker --network=docker-mysql-network --name trainee-rest-api trainee-rest-api 

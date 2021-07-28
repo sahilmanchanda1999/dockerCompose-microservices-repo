@@ -1,0 +1,6 @@
+zuul:
+  routes:
+    order-service:
+      path: /orders/**
+      service-id: order-service
+      strip-prefix: false
