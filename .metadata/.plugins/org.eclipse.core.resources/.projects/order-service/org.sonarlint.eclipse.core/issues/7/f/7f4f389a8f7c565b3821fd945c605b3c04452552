@@ -1,0 +1,8 @@
+
+p
+java:S2259"DA "NullPointerException" could be thrown; "coupon" is nullable here.(ƒö”8½˜ôâ®/HšRMAJORZBUG
+n
+java:S2259"BA "NullPointerException" could be thrown; "item" is nullable here.(ƒö”8½˜ôâ®/HRMAJORZBUG
+f
+java:S6212"/Declare this local variable with "var" instead.(€ñÇÚúÿÿÿÿ8Šİä®/HıRINFOZ
+CODE_SMELL
