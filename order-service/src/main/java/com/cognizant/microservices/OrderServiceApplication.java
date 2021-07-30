@@ -10,7 +10,7 @@ import org.springframework.web.client.RestTemplate;
 public class OrderServiceApplication {
 
 	@Bean
-	@LoadBalanced
+	//@LoadBalanced
 	public RestTemplate getRestTemplateBean() {
 		return new RestTemplate();
 	}
