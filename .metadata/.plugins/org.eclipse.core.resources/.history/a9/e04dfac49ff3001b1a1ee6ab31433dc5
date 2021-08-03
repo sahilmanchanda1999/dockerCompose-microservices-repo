@@ -1,0 +1,8 @@
+package com.cognizant.microservices.service;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(value="menu-item-service")
+public interface MenuItemFeignClient {
+
+}

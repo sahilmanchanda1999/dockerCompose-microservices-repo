@@ -1,8 +1,9 @@
 
-p
-java:S2259"DA "NullPointerException" could be thrown; "coupon" is nullable here.(ƒö”8½˜ôâ®/HšRMAJORZBUG
-n
-java:S2259"BA "NullPointerException" could be thrown; "item" is nullable here.(ƒö”8½˜ôâ®/HRMAJORZBUG
+a
+java:S6212"/Declare this local variable with "var" instead.(Òº¨8Šİä®/HŒRINFOZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(Î™ˆ˜8ÂÃ²º°/HRMAJORZ
+CODE_SMELL
 f
-java:S6212"/Declare this local variable with "var" instead.(€ñÇÚúÿÿÿÿ8Šİä®/HıRINFOZ
+java:S6212 "/Declare this local variable with "var" instead.(¼ÒÖ×ıÿÿÿÿ8Íó²º°/HRINFOZ
 CODE_SMELL
